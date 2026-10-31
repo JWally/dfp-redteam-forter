@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "data": "{\"event\":\"Pageview\",\"event_id\":\"\",\"message_id\":\"messageId-1793466371555-4955882526845-D08DQIJC77U510CSN3RG\",\"is_onsite\":false,\"timestamp\":\"2026-10-31T17:06:11.555Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01M69EH0J56QWK31NDAASQXVE6_.tt.1.1793466073670\"},\"pixel\":{\"code\":\"D08DQIJC77U510CSN3RG\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.wish.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"ad752c71-d54c-11f1-b28e-36365ab5bb95::DAlApTpGjCk_0HTk21Ya-D08DQIJC77U510CSN3RG\",\"pageview_id\":\"ad752c71-d54c-11f1-b28e-36365ab5bb95-UaL_p.10.0::5f4aee0a-d54d-11f1-94ae-a6f1f2e6e506-D08DQIJC77U510CSN3RG\",\"variation_id\":\"default\",\"csid\":\"1793466073674::jvrZHW2InHUGXCF0Ifcs\",\"page_csid\":\"1793466073674::ZkjmmHHKI0cq7Ocn4KfB\",\"csct\":1,\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36\"},\"_inspection\":{\"ppf\":[{\"id\":7,\"d\":9000,\"f\":[{\"id\":19,\"d\":0},{\"id\":1,\"d\":100},{\"id\":19,\"d\":0},{\"id\":2,\"d\":1900},{\"id\":18,\"d\":0},{\"id\":15,\"d\":1000},{\"id\":6,\"d\":3500},{\"id\":8,\"d\":0},{\"id\":9,\"d\":0},{\"id\":11,\"d\":100},{\"id\":4,\"d\":4600},{\"id\":22,\"d\":800},{\"id\":3,\"d\":5500},{\"id\":19,\"d\":0},{\"id\":16,\"d\":0},{\"id\":17,\"d\":0}]}],\"vids\":\"77390321\",\"inter_id\":\"1.296467.297881::0.0.0.0::0.0.0\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}",
+    "type": "string"
+  },
+  {
+    "url": "https://b.im-apps.net/tracker",
+    "data": "[object Blob]",
+    "type": "object"
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "data": "{\"event_id\":\"\",\"message_id\":\"messageId-1793466371818-4548692378934\",\"is_onsite\":false,\"timestamp\":\"2026-10-31T17:06:11.818Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01M69EH0J56QWK31NDAASQXVE6_.tt.1.1793466073670\"},\"pixel\":{\"code\":\"D08DQIJC77U510CSN3RG\",\"runtime\":\"1\",\"codes\":\"D08DQIJC77U510CSN3RG\"},\"page\":{\"url\":\"https://www.wish.com/\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"ad752c71-d54c-11f1-b28e-36365ab5bb95::DAlApTpGjCk_0HTk21Ya\",\"pageview_id\":\"ad752c71-d54c-11f1-b28e-36365ab5bb95-UaL_p.10.0::5f4aee0a-d54d-11f1-94ae-a6f1f2e6e506\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36\",\"index\":10,\"sessions\":[{\"csid\":\"1793466073674::jvrZHW2InHUGXCF0Ifcs\",\"page_csid\":\"1793466073674::ZkjmmHHKI0cq7Ocn4KfB\",\"csct\":1,\"pixel_code\":\"D08DQIJC77U510CSN3RG\"}]},\"_inspection\":{\"ppf\":[{\"id\":6,\"d\":900,\"f\":[{\"id\":25,\"d\":0}]}],\"vids\":\"77390321\",\"inter_id\":\"1.296467.297881::0.0.0.0::0.0.0\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Metadata\",\"auto_collected_properties\":{\"page_trigger\":\"PageView\",\"content_data\":{\"open_graph\":\"{\\\"og:site_name\\\":\\\"Wish\\\",\\\"og:title\\\":\\\"Wish | Shop and Save\\\",\\\"og:description\\\":\\\"Discover affordable items for your home and life needs. Enjoy our money back guarantee, frequent discounts, flat rate shipping (select markets), and more.\\\"}\",\"microdata\":\"[]\",\"json_ld\":\"[{\\\"url\\\":\\\"https://www.wish.com\\\",\\\"@context\\\":\\\"https://schema.org\\\",\\\"potentialAction\\\":[{\\\"query-input\\\":\\\"required name=search_term_string\\\",\\\"@type\\\":\\\"SearchAction\\\",\\\"target\\\":\\\"https://www.wish.com/search/{search_term_string}?utm_source=search_engine_search_box\\\"},{\\\"query-input\\\":\\\"required name=search_term_string\\\",\\\"@type\\\":\\\"SearchAction\\\",\\\"target\\\":\\\"wish://search/{search_term_string}?utm_source=search_engine_search_box\\\"}],\\\"@type\\\":\\\"WebSite\\\"}]\",\"meta\":\"{\\\"title\\\":\\\"Wish | Shop and Save\\\",\\\"meta:description\\\":\\\"Discover affordable items for your home and life needs. Enjoy our money back guarantee, frequent discounts, flat rate shipping (select markets), and more.\\\"}\"}}}",
+    "type": "string"
+  },
+  {
+    "url": "https://cdn3.forter.com/events",
+    "data": "[object Blob]",
+    "type": "object"
+  },
+  {
+    "url": "https://cdn3.forter.com/events",
+    "data": "[object Blob]",
+    "type": "object"
+  },
+  {
+    "url": "https://cdn3.forter.com/events",
+    "data": "[object Blob]",
+    "type": "object"
+  }
+]

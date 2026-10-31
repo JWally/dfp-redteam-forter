@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-forter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Forter sensor pass (Wish.com): sendBeacon /events payload captured (encrypted Blob, Be magic), forterToken format decoded, wpt.json plaintext, 593KB CFG-flattened sensor signal surface mapped (authorized, public page, 2026-10-31)",
+  "scripts": { "blob": "node scripts/ftr-blob.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

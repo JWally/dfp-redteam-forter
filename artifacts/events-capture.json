@@ -1,0 +1,64 @@
+{
+  "ev": [
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    }
+  ],
+  "wpt": [
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json",
+      "postData": "{\"wpt\":35.59999990463257,\"sct\":0,\"dlt\":0}"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json",
+      "postData": "{\"wpt\":37.200000286102295,\"sct\":0,\"dlt\":0}"
+    }
+  ],
+  "ct": [
+    {
+      "url": "https://cdn123.forter.com/?u=982040fa913644daaa16c69b9b02ed9a&v=2"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466253174"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466253324"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466253372"
+    },
+    {
+      "url": "https://cdn123.forter.com/?u=982040fa913644daaa16c69b9b02ed9a&v=2"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466271140"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466271299"
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466271357"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "req": [
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_LOAD_FORTER_SDK_SUCCESS"
+    ],
+    [
+      "GET",
+      "https://9b7afadc4f9b.cdn4.forter.com/sn/9b7afadc4f9b/script.js"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "GET",
+      "https://cdn123.forter.com/?u=982040fa913644daaa16c69b9b02ed9a&v=2"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466128981"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "POST",
+      "https://cdn3.forter.com/events"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466129113"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466129162"
+    ],
+    [
+      "POST",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "POST",
+      "https://cdn3.forter.com/events"
+    ],
+    [
+      "GET",
+      "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=257&t=2&li=gda_r20261028&jk=3323551223372266&bg=!TU6lTizNAAYraIq0C2g7AEcBe5WfOOfJi7y82aKPQg_jkHKbOUlkWkWEVNnlW41Ddi21UU"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_LOAD_FORTER_SDK_SUCCESS"
+    ],
+    [
+      "GET",
+      "https://9b7afadc4f9b.cdn4.forter.com/sn/9b7afadc4f9b/script.js"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "GET",
+      "https://cdn123.forter.com/?u=982040fa913644daaa16c69b9b02ed9a&v=2"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466144669"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466145005"
+    ],
+    [
+      "POST",
+      "https://cdn3.forter.com/events"
+    ],
+    [
+      "GET",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/prop.json?_=1793466145059"
+    ],
+    [
+      "POST",
+      "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json"
+    ],
+    [
+      "POST",
+      "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS"
+    ],
+    [
+      "POST",
+      "https://cdn3.forter.com/events"
+    ]
+  ],
+  "posts": [
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_LOAD_FORTER_SDK_SUCCESS",
+      "postData": "loadLocation=0"
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json",
+      "postData": "{\"wpt\":37,\"sct\":0,\"dlt\":0}"
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_LOAD_FORTER_SDK_SUCCESS",
+      "postData": "loadLocation=0"
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn0.forter.com/9b7afadc4f9b/982040fa913644daaa16c69b9b02ed9a/wpt.json",
+      "postData": "{\"wpt\":36.200000286102295,\"sct\":0,\"dlt\":0}"
+    },
+    {
+      "url": "https://www.wish.com/api/analytics/IMPRESSION_SET_FORTER_TOKEN_SUCCESS",
+      "postData": ""
+    },
+    {
+      "url": "https://cdn3.forter.com/events",
+      "postData": ""
+    }
+  ]
+}
