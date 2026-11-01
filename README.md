@@ -74,6 +74,20 @@ ships in the client**. Captured blobs + decrypted outputs in
 - 🟢 Tamper with payload: decrypt → modify → re-encrypt round-trip proven
 - 🟡 Mint token: payload forgeable, but the `pow` token is server-issued (not minted)
 
+## Demo video — the full shipped payload
+
+`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
+`scripts/demo-forter.py` printing the **complete decrypted `/events` payload**
+(wire 5,808 B → AES-CTR → gzip → full JSON, 19 signals, all fields, no
+truncation). Reproduce it yourself:
+
+```bash
+python3 scripts/demo-forter.py artifacts/decrypted/events-full.json
+```
+
+The full plaintext JSON is also at `artifacts/decrypted/events-full.json`
+(24,556 B).
+
 ## Files
 
 - `scripts/ftr-decrypt.py` — decrypt + tamper harness
