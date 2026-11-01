@@ -76,10 +76,15 @@ ships in the client**. Captured blobs + decrypted outputs in
 
 ## Demo video — the full shipped payload
 
-`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
-`scripts/demo-forter.py` printing the **complete decrypted `/events` payload**
-(wire 5,808 B → AES-CTR → gzip → full JSON, 19 signals, all fields, no
-truncation). Reproduce it yourself:
+**Watch the capture** (terminal capture of `scripts/demo-forter.py` printing
+the complete decrypted `/events` payload — wire 5,808 B → AES-CTR → gzip →
+full JSON, 19 signals, no truncation):
+
+<img src="assets/videos/full-payload-demo.gif" width="720" alt="Forter full payload demo" />
+
+<video controls preload="metadata" width="720"><source src="assets/videos/full-payload-demo.mp4" type="video/mp4"></video>
+
+Reproduce it yourself:
 
 ```bash
 python3 scripts/demo-forter.py artifacts/decrypted/events-full.json
@@ -87,6 +92,7 @@ python3 scripts/demo-forter.py artifacts/decrypted/events-full.json
 
 The full plaintext JSON is also at `artifacts/decrypted/events-full.json`
 (24,556 B).
+[Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-forter/main/assets/videos/full-payload-demo.mp4)
 
 ## Files
 
