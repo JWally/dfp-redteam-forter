@@ -90,7 +90,7 @@ Reproduce it yourself:
 python3 scripts/demo-forter.py artifacts/decrypted/events-full.json
 ```
 
-The full plaintext JSON is also at `artifacts/decrypted/events-full.json`
+The full plaintext JSON is also at [artifacts/decrypted/events-full.json](artifacts/decrypted/events-full.json)
 (24,556 B).
 [Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-forter/main/assets/videos/full-payload-demo.mp4)
 
